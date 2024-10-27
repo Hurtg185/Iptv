@@ -1972,6 +1972,8 @@ zx-pk.ru###stickymsg
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div.print-hide:nth-child(2)
 app.immersivetranslate.com###imt-navbar
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._translate-option-container_1jhxg_128:nth-child(3) > div._translate-option-wrapper_1jhxg_81 > div._translate-option_1jhxg_81:nth-child(2)
+app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._translate-option-container_1jhxg_128:nth-child(3) > div._translate-option-wrapper_1jhxg_81
+
 professorweb.ru###submain > div[class^="a"][style]
 kaermorhen.ru###top-line-container
 numberempire.com###toplink > h3[style="color: red"]
