@@ -1974,7 +1974,25 @@ app.immersivetranslate.com###imt-navbar
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._translate-option-container_1jhxg_128:nth-child(3) > div._translate-option-wrapper_1jhxg_81 > div._translate-option_1jhxg_81:nth-child(2)
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._translate-option-container_1jhxg_128:nth-child(3) > div._translate-option-wrapper_1jhxg_81
 app.immersivetranslate.com###imt-navbar > div._navbar-inner_4x7s4_16 > div._navbar-items_4x7s4_41._right-container_4x7s4_50:last-child
+app.immersivetranslate.com###imt-navbar > div._navbar-inner_4x7s4_16 > div._navbar-items_4x7s4_41._right-container_4x7s4_50:last-child
 
+app.immersivetranslate.com###imt-navbar
+app.immersivetranslate.com###imt-navbar > div._navbar-inner_4x7s4_16
+app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._mobile-translate-option-container_1jhxg_133:nth-child(4) > div._mobile-translate-option-wrapper_1jhxg_205 > div.ant-tabs.ant-tabs-top.ant-tabs-mobile.ant-tabs-centered.css-fpg3f5 > div.ant-tabs-nav:first-child > div.ant-tabs-nav-wrap:first-child > div.ant-tabs-nav-list
+app.immersivetranslate.com###rc-tabs-0-tab-1
+app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div.print-hide:nth-child(2)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:first-child
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(3)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(4)
+dash.immersivetranslate.com###mount > header.header-navbar:first-child
+dash.immersivetranslate.com###mount > div.header-navbar-height:nth-child(2)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(7)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(6)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:last-child
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div.\#1mjcm6l.\#rixaqh.\#zrin67.\#gmpj1t.\#cm50p.\#1r3uflo:last-child
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(5)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(10)
+dash.immersivetranslate.com###mount > main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div:first-child > ul.flex-start.\#1mjcm6l.\#1aabpnr.\#gmpj1t.\#zfsruv.\#1a0dh99 > li.li:nth-child(9)
 app.immersivetranslate.com###imt-navbar
 app.immersivetranslate.com###imt-navbar > div._navbar-inner_4x7s4_16
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._mobile-translate-option-container_1jhxg_133:nth-child(4) > div._mobile-translate-option-wrapper_1jhxg_205 > div.ant-tabs.ant-tabs-top.ant-tabs-mobile.ant-tabs-centered.css-fpg3f5 > div.ant-tabs-nav:first-child > div.ant-tabs-nav-wrap:first-child > div.ant-tabs-nav-list
