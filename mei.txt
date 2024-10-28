@@ -1593,6 +1593,7 @@ app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25
 app.immersivetranslate.com##div.print-hide:nth-of-type(2)
 app.immersivetranslate.com###imt-navbar
 app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div._translate-option-container_1jhxg_128:nth-child(3) > div._translate-option-wrapper_1jhxg_81 > div._translate-option_1jhxg_81:first-child
+app.immersivetranslate.com###root > div._container_1jhxg_21._background_1jhxg_25 > div:last-child > div._text-translation-container_1k5w7_1:last-child > div._text-translation-wrapper_1k5w7_10 > div._text-io-box-container_1k5w7_55:last-child > div._text-in-box-container_16dm3_1:first-child > div._remove-icon_16dm3_175:first-child
 spanishdict.com##.whitelist
 ftuapps.dev##[style*="cursor: no-drop;"]
 play44.net,videobug.net,videofun.me,vidzur.com,yucache.net##[style^="position: absolute; width: 100%;"]
