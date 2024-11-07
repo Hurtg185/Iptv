@@ -40,6 +40,13 @@
         'div.print-hide:nth-of-type(2)',
         '._translate-option_1jhxg_81',
         '._selected_1jhxg_156._translate-option_1jhxg_81',
+        '._lowerNavBar_1jhxg_321.print-hide.notranslate._navbar-container_4x7s4_1',
+        '._remove-icon_16dm3_175 > svg > path',
+        '#mount&&.header-navbar,0',
+        '1',
+        '1',
+        '1',
+        '1',
 
     ];
 
