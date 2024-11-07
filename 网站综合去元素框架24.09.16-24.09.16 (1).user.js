@@ -44,7 +44,7 @@
         '._remove-icon_16dm3_175 > svg > path',
         '.primary',
         '.header-navbar',
-        '1',
+        'main.container-fluid:last-child > aside:first-child > nav.menu-nav.\#1mjcm6l.\#7qhxze.\#li55pj.\#3gv41o > div.\#1mjcm6l.\#rixaqh.\#zrin67.\#gmpj1t.\#cm50p.\#1r3uflo:last-child',
         '1',
         '1',
 
